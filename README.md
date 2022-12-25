@@ -1,7 +1,7 @@
 # simplipay2
 This is an online transaction platform made for SY UG college project.
-In this Django is used as backend
-mysql is used as database
+In this, Django is used as backend and
+mysql database
 It has all basic transaction platform features like,
 It has email, phone verification and authentication system for signup
 transation pin is required before a transaction
